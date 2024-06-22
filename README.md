@@ -1,6 +1,11 @@
 PCB Stencil Holder/Printer
 
-[![PCB Stencil Holder/Printer](https://img.youtube.com/vi/_O603rOUfFA&t=908s)](https://www.youtube.com/watch?v=_O603rOUfFA&t=908s)
+
+
+##YouTube Video:
+https://youtu.be/_O603rOUfFA?si=P_b0JNyxJBAxfcNX
+
+[![Watch the video](https://img.youtube.com/vi/_O603rOUfFA/hqdefault.jpg)](https://www.youtube.com/embed/_O603rOUfFA)
 
 
 ## Description
